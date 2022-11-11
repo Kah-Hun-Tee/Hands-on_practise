@@ -1,1 +1,1 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=B863F7&center=true&vCenter=true&width=500&lines=This+is+a+personal+space+to+practise;All+projects+done+by+Kah-Hun-Tee;Velvet%3A%3ABrown)](https://git.io/typing-svg))
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=B863F7&center=true&vCenter=true&width=500&lines=This+is+a+personal+space+to+practise;All+projects+done+by+Kah-Hun-Tee;Velvet%3A%3ABrown)](https://git.io/typing-svg)

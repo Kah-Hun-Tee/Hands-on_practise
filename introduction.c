@@ -9,7 +9,7 @@
 int main(void)
 {
         printf("Hello World\n");
-        printf("My name is Velvet\n");
+        printf("Hola, My name is Velvet\n");
         printf("Nice to know you\n");
         printf("\t\tVelvet\n");
 
